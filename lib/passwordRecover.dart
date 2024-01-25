@@ -1,6 +1,6 @@
 
 import 'package:flutter/material.dart';
-import 'home.dart';
+import 'main.dart';
 class PasswordRecover extends StatefulWidget {
   const PasswordRecover({super.key});
 
