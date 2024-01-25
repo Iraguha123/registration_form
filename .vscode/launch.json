@@ -1,0 +1,18 @@
+{
+         "configurations": [
+                  {
+                           "name": "Dart: Attach to Process",
+                           "type": "dart",
+                           "request": "attach"
+                  },
+                  {
+                           "name": "Flutter (rodrigue emu)",
+                           "program": "lib/main.dart",
+                           "request": "launch",
+                           "type": "dart"
+                  }
+         ]
+
+
+       }
+       
